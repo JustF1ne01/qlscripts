@@ -1,3 +1,5 @@
+# cron: 0 0 12,15 * * *
+# new Env('探我');
 # 探我APP自动开盲盒
 # 微信打开链接下载App  https://popularize.allture.vip/pages/telegramShare/joinUs/index?type=2&prize_id=0&user_id=26760
 # 抓包盲盒界面域名https://tw.api.allture.vip/appApi/activity/blindBoxWinning?请求头中的token
