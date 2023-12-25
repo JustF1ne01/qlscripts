@@ -1,4 +1,4 @@
-# cron: 15,45 * * * *
+# cron: 5,55 * * * *
 # new Env('鱼儿阅读');
 # 建议配合过检测一起食用
 # 环境变量AppToken填写wxpusher的apptoken
