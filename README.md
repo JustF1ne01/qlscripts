@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_avatar_image.png" alt="Avatar" width="150" height="150">
+  <img src="http://loooo.fun/Yzyxmm.png" alt="Avatar" width="150" height="150">
   <br>
   Your Name
 </p>
