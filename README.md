@@ -1,4 +1,5 @@
-<p align="center" style="background-image: url('http://loooo.fun/Yzyxmm.png'); background-size: cover; width: 150px; height: 150px; border-radius: 50%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
+<p align="center">
+  <img src="http://loooo.fun/Yzyxmm.png" alt="Avatar" width="150" height="150" style="border-radius: 50%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
   <br>
   Your Name
 </p>
