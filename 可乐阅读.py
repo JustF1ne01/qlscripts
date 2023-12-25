@@ -1,3 +1,5 @@
+# cron: 15,45 * * * *
+# new Env('可乐阅读');
 # 可以配合安卓自动过检测一起食用
 # 环境变量AppToken填写wxpusher的apptoken
 # 环境变量YuerYd填写Cookie#wxpusher的uid
