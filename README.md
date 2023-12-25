@@ -4,7 +4,7 @@
 
 # 青龙拉库命令
 ``````
-ql 仓库 https://ghproxy.top/https://github.com/Yzyxmm/qlscripts.git
+ql repo https://ghproxy.top/https://github.com/Yzyxmm/qlscripts.git
 ``````
 仓库内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
 
