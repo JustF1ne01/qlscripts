@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="http://loooo.fun/Yzyxmm.png" alt="Avatar" width="150" height="150" style="border-radius: 50%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
+
+<p align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
+    <img src="[your_avatar_image.png](http://loooo.fun/Yzyxmm.png)" alt="Avatar" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
   <br>
   Your Name
 </p>
-
 
 
 # 我没有青龙？
