@@ -1,5 +1,5 @@
 # 我没有青龙？
-[给没有青龙一个家](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4r4zB6XvJiBUbqC7LuncekWQFtdN_9iU&authKey=JFqJz2J0%2Fyhb1a98pLGHdAwG%2Bzeo3hsjum9iRivQKSNHptGr5KqQZwRCYhp%2BY1PR&noverify=0&group_code=913193784)
+[给没有青龙一个家丨交流·反馈](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4r4zB6XvJiBUbqC7LuncekWQFtdN_9iU&authKey=JFqJz2J0%2Fyhb1a98pLGHdAwG%2Bzeo3hsjum9iRivQKSNHptGr5KqQZwRCYhp%2BY1PR&noverify=0&group_code=913193784)
 
 
 # 青龙拉库命令
