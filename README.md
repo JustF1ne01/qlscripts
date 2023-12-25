@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://example.com/your_avatar_image.png" alt="Avatar" width="150" height="150" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  <img src="your_signature_image.png" alt="Signature" width="100" height="100" style="border-radius: 50%;">
+  <img src="your_avatar_image.png" alt="Avatar" width="150" height="150">
+  <br>
+  Your Name
 </p>
 
 
